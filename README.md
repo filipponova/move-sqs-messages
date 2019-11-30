@@ -10,8 +10,8 @@ Essa função pode ser triggada pelo próprio SQS, ou seja, toda vez que uma men
 
 # Requisitos:
 
-- Python3
-- Boto3
+- Python 3
+- Boto 3
 - OS
 
 # Observações:
