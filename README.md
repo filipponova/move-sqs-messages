@@ -1,4 +1,4 @@
-# Sobre o script:
+# Sobre o Projeto:
 
 Desenvolvi esses scripts, pois tive muitos problemas com o uso de fila na AWS, nesse caso utilizando a solução SQS.
 
@@ -10,9 +10,9 @@ Essa função pode ser triggada pelo próprio SQS, ou seja, toda vez que uma men
 
 # Requisitos:
 
-Python3
-Boto3
-OS
+- Python3
+- Boto3
+- OS
 
 # Observações:
 
